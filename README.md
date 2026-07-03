@@ -30,6 +30,9 @@ NVRCMD automatically recognizes and provides tailored commands for the following
 You can easily compile and install the utility globally using the provided script.
 
 ```bash
+# Download repository
+git clone https://github.com/neverloseagain1/nvrcmd
+
 # Clone your repository (or go to your project folder)
 cd nvrcmd
 
