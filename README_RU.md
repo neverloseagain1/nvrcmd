@@ -31,6 +31,7 @@ NVRCMD автоматически распознает и предоставля
 ```bash
 # Cкачайте репозиторий
 git clone https://github.com/neverloseagain1/nvrcmd
+
 # Перейдите в папку с проектом
 cd nvrcmd
 
